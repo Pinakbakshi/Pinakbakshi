@@ -1,70 +1,103 @@
-## Hi there 👋
-# 👨‍💻 Welcome to My Project Portfolio
+# 👋 Hi, I'm Pinakpani Bakshi
 
-🚀 Turning ideas into intelligent systems — I build tech that bridges the gap between data, devices, and real-world needs.
+🚀 I’m a Computer Science graduate with a passion for creating impactful solutions at the intersection of Deep Learning, IoT, and FinTech. From gesture-based air canvases to intelligent health monitoring systems and trading automation, I build systems that combine data, devices, and user-friendly design to solve real-world problems.
+
+Currently, I'm working at **Cognizant** as a Programmer Analyst Trainee, focused on **healthcare technology** using **Facets**, streamlining systems, and optimizing databases to enhance business processes.
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Key Skills
+**Languages:** Python, C#, Java, Kotlin, C, SQL, PL/SQL, HTML, CSS, JavaScript  
+**Frameworks & Tools:** TensorFlow, Keras, OpenCV, Firebase, Flask, Django, Flutter, Android Studio, Google Cloud, Scikit-learn, Arduino, YFinance, Git  
+**Domains:** Machine Learning, Deep Learning, IoT, Mobile Development, Data Analysis, Healthcare IT
+
+---
+
+## 🔬 Projects
 
 ### 🎨 Deep Learning-driven Interactive Air Canvas System
-**Conference:** 2nd International Conference on Higher Education Institute Challenges Solutions for Sustainable Development Goals 2023
-
-**Description:**
-An interactive system that enables users to draw in the air using hand gestures, captured via a camera and interpreted using deep learning. Ideal for virtual art applications, teaching aids, and gesture-based interfaces.
-
-**Tech Stack:**
-- Python
-- OpenCV
-- TensorFlow/Keras
-- MediaPipe (for gesture detection)
-
-**Key Features:**
-- Real-time hand gesture recognition
-- Color and brush control using finger gestures
-- Interactive air-drawing canvas
+An intuitive system for drawing in the air using hand gestures, leveraging computer vision and neural networks.  
+📌 **Award:** *Best Paper* at FCOM-FinTech 2024  
+📄 **Published in:** International Conference on Sustainable Development Goals  
+🔧 **Tech Stack:** OpenCV, TensorFlow, Python  
 
 ---
 
-### ❤️ Integrated IoT System for Real-time Heart Rate Monitoring
-**Description:**
-A complete IoT solution that monitors heart rate in real-time and alerts users and healthcare providers in case of abnormalities. It also sends intelligent notifications via email and includes a mobile interface for ease of use.
-
-**Tech Stack:**
-- Arduino + Pulse Sensor
-- Python (for email automation)
-- Firebase (for cloud data storage)
-- Kotlin (for Android app development)
-
-**Key Features:**
-- Real-time BPM monitoring
-- Automated email alerts to doctors and patients
-- Live data visualization on a mobile app
-- Firebase-based analytics and logging
+### ❤️ IoT-Based Heart Rate Monitoring & Alerting System
+A complete IoT solution for real-time BPM tracking with intelligent alerting and a Kotlin-based Android app.  
+📧 Sends automated emails to doctors and patients using SMTP  
+📲 Integrated with Firebase for real-time data logging  
+🔧 **Tech Stack:** Arduino, Firebase, Python, Kotlin, Flask/Django, Email API, NoSQL  
 
 ---
 
-## 🛠 Technologies & Tools
-- **Languages:** Python, Kotlin, C++, Java
-- **Frameworks:** TensorFlow, Keras, OpenCV, MediaPipe
-- **IoT:** Arduino, Sensors, Firebase Realtime Database
-- **Mobile:** Android (Kotlin)
-- **Other Tools:** Git, GitHub, VS Code, Arduino IDE
+### 🔍 Fake Account Detection with Deep Learning (Ongoing)
+Security-focused project using deep learning to identify potentially fake or impersonated accounts in social networks.  
+🎯 **Goal:** Reduce false positives and enhance user protection  
+🔧 **Tech Stack:** Python, TensorFlow, Scikit-learn  
 
 ---
 
-## 📈 Current Focus
-I'm currently expanding my expertise in **macOS**, especially Terminal and system-level operations. I'm also working on streamlining healthcare-related tech solutions at **Cognizant**, focusing on **Facets** platform optimization and data flow enhancements.
+### 📈 Algorithmic Trading Strategy Optimization
+Built an SMA-based trading strategy and ran backtests to optimize portfolio value.  
+📊 Visualization includes candlesticks and key trade markers.  
+🔧 **Tech Stack:** Python, TensorFlow, BackTrader  
+
+🔗 [GitHub Repo](https://github.com/Pinakbakshi/Algo-trading)
 
 ---
 
-## 🔗 Let's Connect
-- **LinkedIn:** [http://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
-- **Email:** [pinak875@gmail.com]
+### 🏦 Loan Eligibility Prediction
+A neural network to classify loan applications, optimized with feature engineering and real-time prediction APIs.  
+🔧 **Tech Stack:** Python, TensorFlow, Pandas, NumPy  
+
+🔗 [GitHub Repo](http://github.com/Pinakbakshi/Loan-Prediction)
 
 ---
 
-Thanks for visiting my GitHub! 🌟 Feel free to explore the repositories and reach out if you're interested in collaborating or learning more about my work.
+### 💹 Stock Market Analysis & Signal Generation
+Fetched historical data, calculated indicators, and built a regression model with buy/sell signal prediction.  
+🔧 **Tech Stack:** Python, Scikit-learn, YFinance  
+
+🔗 [GitHub Repo](http://github.com/Pinakbakshi/Stock-Market-Analysis-)
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science**  
+*SRM Institute of Science and Technology (2020–2024)*  
+CGPA: 8.42  
+Emphasis on AI, Data Structures, Cybersecurity, and Database Systems.
+
+---
+
+## 🏢 Experience
+
+**Programmer Analyst Trainee – Cognizant**  
+*Jul 2024 – Present* | Chennai, India  
+- Working in the healthcare domain with a focus on database optimization and Facets platform enhancement.  
+- Building applications to streamline internal workflows and improve operational efficiency.
+
+---
+
+## 🏆 Awards & Publications
+
+- 🏅 *Best Paper Award* – FCOM-FINTECH 2024  
+- 📄 *Publication:* "Interactive Air Canvas System for Gesture Recognition" at the International Conference on Higher Education and SDGs, Jan 2024
+
+---
+
+## 📫 Connect With Me
+
+- ✉️ Email: [pinak875@gmail.com](mailto:pinak875@gmail.com)  
+- 🌐 GitHub: [github.com/Pinakbakshi](https://github.com/Pinakbakshi)  
+- 📍 Location: Hyderabad, India
+
+---
+
+Thanks for visiting! Check out the pinned repositories to see the full code for my projects. Let’s connect if you’re interested in collaborating on AI, IoT, or data-driven systems.
+
 
 
 # 💻 Tech Stack:
