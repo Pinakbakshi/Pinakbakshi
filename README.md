@@ -59,9 +59,8 @@ I'm currently expanding my expertise in **macOS**, especially Terminal and syste
 ---
 
 ## 🔗 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio Website:** [Your Portfolio Link (optional)]
-- **Email:** [Your Email]
+- **LinkedIn:** [http://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
+- **Email:** [pinak875@gmail.com]
 
 ---
 
