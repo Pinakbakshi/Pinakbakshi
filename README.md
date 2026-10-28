@@ -19,18 +19,24 @@ Explores scanning project files for likely secrets and personal information, pro
 *Status and security note:* This is a security-sensitive portfolio MVP, not an independently audited production security boundary. Detection is heuristic; it can miss sensitive data. Do not rely on it as the sole control for secrets, PHI, or regulated information.
 
 ### [TracePlay](https://github.com/Pinakbakshi/traceplay)
-**UI-to-backend impact testing and regression analysis.**
+**UI-to-backend impact testing, regression analysis, and REST API contract checks.**
 
-A testing platform built around browser automation and a FastAPI backend. Its intended workflow crawls a web application, captures network activity and trace context, compares database state before and after interactions, evaluates latency/SLA observations, and generates regression reports.
+A testing platform built around Playwright and FastAPI. It supports browser-driven crawling, network/trace capture, database-state diffs, latency observations, and regression reports. A REST API contract CLI now checks authenticated endpoints, expected HTTP statuses, required nested JSON fields, and latency, with sensitive query values redacted. Its six focused contract-validator tests pass in GitHub Actions. Live-target testing still requires a reachable service and locally configured credentials.
 
 ### [Crypto Analyzer GPT](https://github.com/Pinakbakshi/crypto-analyzer-get)
-An API-oriented project exploring cryptocurrency market data, technical signals, and AI-assisted analysis. Model output is explanatory, not a guaranteed forecast or financial advice.
+An API-oriented crypto market-analysis project. Its merged `/analysis/technical-signal` endpoint returns an explainable weighted technical-bias score using moving-average trend, RSI, MACD, and price versus SMA20, along with component explanations and indicator context. Seven CI tests pass, including authenticated route tests with mocked candles. Live exchange connectivity and predictive performance remain unverified; this is not a guaranteed forecast or financial advice.
 
 ### [Daily Digest Automation](https://github.com/Pinakbakshi/Daily_digest_automation)
 A personal automation project for consolidating developer news, learning resources, media, and selected daily updates into one digest.
 
 ### [Reel Generator](https://github.com/Pinakbakshi/reel_generator)
 An AI-assisted short-form video-generation application exploring a workflow for creating social video content.
+
+## Recent engineering updates (2026-10-29)
+
+- **Crypto Analyzer GPT:** merged the explainable technical-signal API, tests, and implementation documentation.
+- **TracePlay:** merged authenticated REST API contract probing, response assertions, latency reporting, and credential redaction.
+- Both projects' GitHub Actions checks passed. These results verify the tested code paths, not live-service availability or financial predictive accuracy.
 
 ## Other projects and experiments
 
