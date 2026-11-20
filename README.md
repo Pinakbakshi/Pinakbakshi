@@ -11,6 +11,14 @@ I work at the intersection of **healthcare data engineering, backend development
 
 ## Current builds
 
+### [MUSECUT](https://github.com/Pinakbakshi/MUSECUT) · [Live frontend](https://pinakbakshi.github.io/MUSECUT/)
+**A music-video-to-short-form-reels creator workspace.**
+
+A Next.js frontend paired with a FastAPI/FFmpeg processing worker, designed to turn music videos and timed lyrics into vertical 9:16 clips with burned-in captions. The MVP includes video upload, timed SRT/LRC input, clip-count selection, rendering workflow, and ZIP export.
+
+*Deployment status (2026-11-21):* The static frontend is deployed through GitHub Actions to GitHub Pages. The FastAPI/FFmpeg worker still needs a separate HTTPS hosting deployment before end-to-end video rendering can be verified. Clip selection is currently heuristic; forced lyric alignment, beat/chorus analysis, semantic scene selection, and advanced reframing are future improvements.
+
+
 ### [PrivateGuard](https://github.com/Pinakbakshi/PrivateGuard)
 **A local-first privacy gateway for AI coding agents.**
 
