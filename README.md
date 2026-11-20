@@ -6,25 +6,25 @@ I build and support healthcare data platforms, enterprise integrations, backend 
 
 ## Portfolio
 
-**[Explore my interactive portfolio →](https://pinakbakshi.github.io/Pinakbakshi/)**
+**[Explore my portfolio →](https://pinakbakshi.github.io/)**
 
 The portfolio covers my Cognizant and SKAP Creative experience, technical skills, certifications, selected GitHub projects and engineering focus areas. It intentionally excludes my phone number and location.
 
 ## Focus areas
 
-- **Healthcare data engineering:** claims, EOP, provider payments, subscriber billing, ACH and financial reconciliation.
-- **Data integration:** Informatica PowerCenter/IICS, Oracle PL/SQL, SQL Server/T-SQL, Python and XML/XSD.
-- **Techno-functional delivery:** requirements analysis, business-rule interpretation, impact assessment, stakeholder coordination, UAT and production support.
-- **Applied AI & backend:** FastAPI, Azure OpenAI, LLM integrations, RAG, MCP and automation.
+- Healthcare data engineering: claims, EOP, provider payments, subscriber billing, ACH and financial reconciliation.
+- Data integration: Informatica PowerCenter/IICS, Oracle PL/SQL, SQL Server/T-SQL, Python and XML/XSD.
+- Techno-functional delivery: requirements analysis, business-rule interpretation, impact assessment, stakeholder coordination, UAT and production support.
+- Applied AI & backend: FastAPI, Azure OpenAI, LLM integrations, RAG, MCP and automation.
 
-## Featured repositories
+## Selected repositories
 
-- [TracePlay](https://github.com/Pinakbakshi/traceplay) — UI-to-backend testing, trace correlation and regression analysis.
-- [PrivateGuard](https://github.com/Pinakbakshi/PrivateGuard) — local-first AI privacy gateway MVP.
-- [Crypto Analyzer GPT](https://github.com/Pinakbakshi/crypto-analyzer-get) — explainable technical-indicator analysis API.
-- [Daily Digest Automation](https://github.com/Pinakbakshi/Daily_digest_automation) — automated developer and learning digest.
-- [Reel Generator](https://github.com/Pinakbakshi/reel_generator) — short-form video workflow.
-- [MUSECUT](https://github.com/Pinakbakshi/MUSECUT) — music-video-to-short-form content workspace.
+- [TracePlay](https://github.com/Pinakbakshi/traceplay)
+- [PrivateGuard](https://github.com/Pinakbakshi/PrivateGuard)
+- [Crypto Analyzer GPT](https://github.com/Pinakbakshi/crypto-analyzer-get)
+- [Daily Digest Automation](https://github.com/Pinakbakshi/Daily_digest_automation)
+- [Reel Generator](https://github.com/Pinakbakshi/reel_generator)
+- [MUSECUT](https://github.com/Pinakbakshi/MUSECUT)
 
 [View all public repositories →](https://github.com/Pinakbakshi?tab=repositories)
 
